@@ -1,3 +1,4 @@
+![logo](https://github.com/MuheebUrRehman/MuheebUrRehman/blob/main/linkedin%20cover2.png)
 <h1 align="center">Hi 👋, I'm Muheeb Ur Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 

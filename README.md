@@ -1,6 +1,6 @@
-![logo](https://github.com/MuheebUrRehman/MuheebUrRehman/blob/main/linkedin%20cover2.png)
+![logo](https://github.com/MuheebUrRehman/MuheebUrRehman/blob/main/Muheeb_Ur_Rehman_Agentic_AI_2.png)
 <h1 align="center">Hi 👋, I'm Muheeb Ur Rehman</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Agentic AI Engineer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muheeburrehman&label=Profile%20views&color=0e75b6&style=flat" alt="muheeburrehman" /> </p>
